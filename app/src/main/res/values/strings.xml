@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieAPITest</string>
+    <string name="movie_api_test">movie_api_test</string>
+</resources>
